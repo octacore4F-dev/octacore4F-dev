@@ -5,7 +5,6 @@ Aspiring Developer
 ------------------
 
 *   🌍  I'm based in Brandenburg, Germany
-*   ✉️  You can contact me at [Discord: octacore4f](mailto:Discord: octacore4f)
 *   🧠  I'm learning GoLang
 *   🤝  I'm open to collaborating on anything! Just ask me.
 *
